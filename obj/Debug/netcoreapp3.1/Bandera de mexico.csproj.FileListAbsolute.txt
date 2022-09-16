@@ -1,0 +1,17 @@
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.exe
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.deps.json
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.runtimeconfig.json
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.runtimeconfig.dev.json
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.dll
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Bandera de mexico.pdb
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.csproj.AssemblyReference.cache
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.AssemblyInfoInputs.cache
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.AssemblyInfo.cs
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.csproj.CoreCompileInputs.cache
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.dll
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.pdb
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.genruntimeconfig.cache
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.Auth.dll
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\bin\Debug\netcoreapp3.1\Microsoft.Exchange.WebServices.dll
+C:\Practicas\16SEP\Bandera de mexico\Bandera de mexico\obj\Debug\netcoreapp3.1\Bandera de mexico.csproj.CopyComplete
